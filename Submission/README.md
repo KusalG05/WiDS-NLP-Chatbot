@@ -5,7 +5,7 @@ This folder has a report for theory, practiced jupyter notes and final code. Par
 
 Report: WiDS-ChatBot.pdf 
 
-Practice: titanic.ipynb, tensorflow.ipynb, sentiment,ipynb 
+Practice: titanic.ipynb, tensorflow.ipynb, sentiment.ipynb 
 
 Final code: Conversational_Chatbot.ipynb 
 
